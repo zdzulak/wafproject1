@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 html {
-  background-color: navy;
+  background-color: aqua;
   font-family: sans-serif;
   font-size: 15px;
 }
@@ -27,4 +27,5 @@ main {
 
 main h3 {
   font-size: 30px;
+  line-height: 1;
 }
