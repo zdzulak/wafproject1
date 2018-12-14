@@ -10,6 +10,7 @@ header nav ul {
   background-color: white;
   max-width: 1000px;
   min-width: 700px;
+  margin: 0 auto;
 }
 
 header nav li {
