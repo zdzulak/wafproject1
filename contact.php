@@ -19,7 +19,7 @@
 
     <main>
       <form>
-        <input type="text" name="feedback" id="feedback" />
+        <textarea name="feedback">Enter feedback here</textarea>
         <button type="submit">Submit</button>
     </form>
     </main>
