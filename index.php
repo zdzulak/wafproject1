@@ -24,8 +24,7 @@
 			<p>Throwing fate to the wind, risking life and limb, or worse, little Mario tries desperately to climb the mighty fortress of steel, to save the lovely lady from the evil Mr. Kong. Little Mario must dodge all manner of obstacles - fireballs, plummeting beams and a barrage of exploding barrels fired at him by Donkey Kong. Admist the beautiful girl's constant pleas for help, your challenge is to maneuver little Mario up the steel structure, while helping him to avoid the rapid-fire succession of hazards that come his way.</p>
 
 			<figure>
-				<img src="images/donkonart.jpg" width="175" height="280" alt="Promotional Art of Donkey Kong">
-				<figcaption>Mario makes his way up the structure to rescue the lady from Donkey Kong's evil grasp.</figcaption>
+				<img src="images/donkonart.jpg" width="180" height="280" alt="Promotional Art of Donkey Kong">
 			</figure>
 
 			<p>As little Mario gallantly battles his way up the barriers, he is taunted and teased by Donkey Kong, who brazenly struts back and forth, beating his chest in joyful exuberance at the prospect of having the beautiful girl all to himself. It is your job to get little Mario to the top. For it is there, and only there, that he can send the mighty Donkey Kong to his mortal doom. Leaving little Mario and the beautiful girl to live happily ever after. "SIGH. SIGH."</p>
