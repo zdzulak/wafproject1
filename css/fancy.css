@@ -9,6 +9,7 @@ html {
 header nav ul {
   background-color: white;
   text-align: center;
+  padding: 25px;
   max-width: 900px;
   min-width: 600px;
   margin: 0 auto;
