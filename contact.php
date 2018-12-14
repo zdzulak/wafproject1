@@ -18,10 +18,17 @@
     </header>
 
     <main>
+      <h3>Any Problems? Tell Us!</h3>
       <form>
         <textarea name="feedback">Enter feedback here</textarea>
         <button type="submit">Submit</button>
-    </form>
+      </form>
+
+      <h3>Any Questions? Ask Us!</h3>
+      <form>
+        <textarea name="feedback">Questions here</textarea>
+        <button type="submit">Submit</button>
+      </form>
     </main>
   </body>
 </html>

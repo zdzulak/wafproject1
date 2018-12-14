@@ -18,7 +18,12 @@
     </header>
 
     <main>
-      <p></p>
+      <h3>The Famicom Home Entertainment System</h3>
+      <p>Now you can have the excitement of an arcade cabinet in the confides of your home! The Famicom allows you to be able to play games on your T.V. for up to 2 players. Play new games such as Duck Hunt with the Zapper extension or Super Mario Bros. with 2 players!</p>
+
+      <h3>Game & Watch</h3>
+      <p>Nintendo's hit handheld gaming system. A small portable console allows for games on the go.</p>
+
     </main>
   </body>
 </html>
