@@ -6,8 +6,8 @@ html {
   font-size: 15px;
 }
 
-header nav li{
-  background-color: white;
+header nav li {
+  color: white;
   border-width: 10px;
   display: inline;
   max-width: 1000px;
