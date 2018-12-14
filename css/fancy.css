@@ -6,7 +6,7 @@ html {
   font-size: 15px;
 }
 
-header nav {
+header nav li{
   background-color: white;
   border-width: 1px;
   display: inline;
