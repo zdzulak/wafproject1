@@ -1,13 +1,16 @@
 @charset "UTF-8";
 
 html {
-  background-color: aqua;
+  background-color: navy;
   font-family: sans-serif;
   font-size: 15px;
 }
 
+header nav ul {
+  background-color: white;
+}
+
 header nav li {
-  color: white;
   border-width: 10px;
   display: inline;
   max-width: 1000px;
