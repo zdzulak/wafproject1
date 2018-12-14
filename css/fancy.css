@@ -6,11 +6,16 @@ html {
   font-size: 15px;
 }
 
-
+header nav {
+  border-width: 1px;
+  display: inline-block;
+  margin-right: 0.5em;
+}
 
 main {
   background-color: white;
   line-height: 2;
   text-align: justify;
   max-width: 1000px;
+  padding: 2em 2em;
 }
