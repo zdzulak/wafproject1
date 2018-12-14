@@ -17,5 +17,6 @@ main {
   line-height: 2;
   text-align: justify;
   max-width: 1000px;
+  min-width: 700px;
   padding: 2em 2em;
 }
