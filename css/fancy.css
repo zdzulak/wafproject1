@@ -24,3 +24,7 @@ main {
   margin: 0 auto;
   padding: 2em 2em;
 }
+
+main h3 {
+  font-size: 30px;
+}

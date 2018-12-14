@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/fancy.css" />
 	</head>
 
-  <body>
+  <body id="home">
     <header>
       <img src="images/dklogo.png" height="100" width="275" alt="Donkey Kong Logo" />
 			<?php
