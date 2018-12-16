@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
   let links = gallery.getElementsByTagName("a");
 
-  alert("test")
+  alert("test");
   for (var i=0; i<links.length; i++) {
 
     links[i].onclick = function(){
