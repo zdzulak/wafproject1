@@ -18,7 +18,20 @@
     </header>
 
     <main>
+      <h3>About the Game</h3>
       <p>Donkey Kong stars Mario attempting to reach the top of a construction site where Lady is held captive. He can walk along platforms, jump, and climb ladders as well. In the process, Donkey Kong may attempt to hinder Mario from a higher location by sending obstacles at him. Mario has the ability to jump over these obstacles or obliterate them using a Hammer; in both cases, he obtains a number of points that are added to a score. However, if Mario ends up falling off the side of a platform and lands on one below him (or none), and the difference in height is greater than Mario's by one and a half, he loses a life. Each time Mario reaches Lady, Donkey Kong will carry her away on a pair of ladders to the next level until the fourth stage, where he is defeated upon completion.</p>
+
+      <h3>Meet the Characters</h3>
+      <ul id="characters">
+        <li><a href="images/donkeykong.jpg" title="DonkeyKong" alt="Donkey Kong">Donkey Kong</a></li>
+
+        <li><a href="images/mario.jpg" title="Mario" alt="Mario">Mario</a></li>
+
+        <li><a href="images/Lady.jpg" title="Lady" alt="Lady">Lady</a></li>
+      </ul>
     </main>
+
+    <script="js/characters.js" type="text/javascript"></script>
+    
   </body>
 </html>
