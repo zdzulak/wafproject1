@@ -34,7 +34,7 @@
       <p id="description">Click the links for information on the character.</p>
     </main>
 
-    <script="js/characters.js" type="text/javascript"></script>
+    <script src="js/characters.js" type="text/javascript"></script>
 
   </body>
 </html>
