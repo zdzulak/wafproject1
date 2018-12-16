@@ -23,15 +23,18 @@
 
       <h3>Meet the Characters</h3>
       <ul id="characters">
-        <li><a href="images/donkeykong.jpg" title="DonkeyKong" alt="Donkey Kong">Donkey Kong</a></li>
+        <li><a href="images/donkeykong.jpg" title="The Villain" alt="Donkey Kong">Donkey Kong</a></li>
 
-        <li><a href="images/mario.jpg" title="Mario" alt="Mario">Mario</a></li>
+        <li><a href="images/mario.jpg" title="The Carpenter" alt="Mario">Mario</a></li>
 
-        <li><a href="images/Lady.jpg" title="Lady" alt="Lady">Lady</a></li>
+        <li><a href="images/Lady.jpg" title="The Damsel in Distress" alt="Lady">Lady</a></li>
       </ul>
+
+      <img id="placeholder" src="images/donkeykong.jpg" alt="Donkey Kong" onclick="console.log(this.getAttribute('src'))" />
+      <p id="description">Click the links for information on the character.</p>
     </main>
 
     <script="js/characters.js" type="text/javascript"></script>
-    
+
   </body>
 </html>
