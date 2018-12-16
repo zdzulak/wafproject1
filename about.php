@@ -30,7 +30,7 @@
         <li><a href="images/Lady.jpg" title="The Damsel in Distress" alt="Lady">Lady</a></li>
       </ul>
 
-      <img id="placeholder" src="images/donkeykong.jpg" alt="Donkey Kong" onclick="console.log(this.getAttribute('src'))" />
+      <img id="placeholder" src="images/donkeykong.jpg" alt="Donkey Kong" />
       <p id="description">Click the links for information on the character.</p>
     </main>
 
